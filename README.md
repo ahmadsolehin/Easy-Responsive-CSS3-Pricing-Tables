@@ -3,7 +3,7 @@
 <li> build some responsive pricing tables using HTML5 and CSS3.
 </li>
 
-
+<li>no twitter bootstrap use </li>
 
 # screenshot
 
